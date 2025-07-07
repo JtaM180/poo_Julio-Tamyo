@@ -12,8 +12,7 @@ Este proyecto amplía el sistema de gestión de contenidos audiovisuales, implem
 - Cortometraje → subclase de ContenidoAudiovisual
 
 ## Cómo Ejecutar
-1. Clonar el repositorio:
-   git clone https://github.com/usuario/poo_unidad2.git
+1. Clonar el repositorio
 2. Importar en Eclipse → Ejecutar Main.java
 
 ## Mejoras
